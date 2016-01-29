@@ -4,7 +4,7 @@
 var config = {
     map: {
         '*': {
-            'Magento_Swatches/js/SwatchRenderer':'Muaw_CustomSwatches/js/SwatchRenderer'
+            'swatchRenderer':'Muaw_CustomSwatches/js/SwatchRenderer'
         }
     }
 };
